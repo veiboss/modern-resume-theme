@@ -54,7 +54,7 @@ about_profile_image: 2.jpg
 about_content: 안녕하세요 민우입니다. <br>
     - 나이 -> 2X <br>
     - 사는 곳 -> 서울 <br>
-    - Images <br> ![alt text](/images/landscape-trees.jpg "Trees")
+    - Images <br> ![alt text](3.jpg)
 
 content:
   - title: Projects # Title for the section
