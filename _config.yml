@@ -55,7 +55,7 @@ about_content: 안녕하세요 민우입니다. <br>
     - Lists <br>
     - Tables <br>
     - <a href="google.com">Links</a> <br>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees") <br>
+    - Images <br> ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
