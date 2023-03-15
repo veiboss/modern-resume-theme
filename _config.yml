@@ -51,12 +51,10 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 2.jpg
-about_content: 안녕하세요 민우입니다.
-
-#You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+about_content: 안녕하세요 민우입니다. <br>
+    - Lists <br>
+    - Tables <br>
+    - <a href="google.com">Links</a> <br>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
