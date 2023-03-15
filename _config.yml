@@ -12,7 +12,7 @@ email: finalbossveigar1@gmail.com
 # email_title: Email (Email title override)
 phone: 010-####-####
 # phone_title: Phone (Phone title override)
-website: https://veiboss.github.
+website: https://veiboss.github.io/Hello-world-/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -50,9 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: 2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  안녕하세요 민우입니다.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
